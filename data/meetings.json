@@ -1,0 +1,296 @@
+[
+  {
+    "title": "Daily Standup",
+    "time": "09:00",
+    "participants": "Ikram, Team",
+    "duration": "15 minutes"
+  },
+  {
+    "title": "Weekly Planning Meeting",
+    "time": "10:00",
+    "participants": "Project Team",
+    "duration": "45 minutes"
+  },
+  {
+    "title": "Client Sync – DigitalWave",
+    "time": "11:30",
+    "participants": "Ikram, Client Team",
+    "duration": "1 hour"
+  },
+  {
+    "title": "UX Review Session",
+    "time": "14:00",
+    "participants": "Design Team, Product Owner",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Data Quality Check",
+    "time": "15:30",
+    "participants": "Analytics Team",
+    "duration": "30 minutes"
+  },
+  {
+    "title": "Release Readiness Review",
+    "time": "16:00",
+    "participants": "Engineering, QA",
+    "duration": "45 minutes"
+  },
+  {
+    "title": "Project Kickoff – New Platform",
+    "time": "13:00",
+    "participants": "Full Team",
+    "duration": "1 hour"
+  },
+  {
+    "title": "One-on-One with Manager",
+    "time": "12:00",
+    "participants": "Ikram, Sarah",
+    "duration": "30 minutes"
+  },
+  {
+    "title": "AI Model Evaluation",
+    "time": "15:00",
+    "participants": "Data Science Team",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Security Awareness Meeting",
+    "time": "08:30",
+    "participants": "Security Team",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Client Demo Preparation",
+    "time": "09:45",
+    "participants": "Sales, Engineering",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Database Migration Sync",
+    "time": "11:00",
+    "participants": "Backend Team",
+    "duration": "30 minutes"
+  },
+  {
+    "title": "Product Roadmap Alignment",
+    "time": "10:30",
+    "participants": "Product & Engineering Leads",
+    "duration": "45 minutes"
+  },
+  {
+    "title": "Marketing Campaign Review",
+    "time": "14:30",
+    "participants": "Marketing Team",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Vendor Contract Discussion",
+    "time": "16:15",
+    "participants": "Legal, Procurement",
+    "duration": "45 minutes"
+  },
+  {
+    "title": "Sprint Retrospective",
+    "time": "13:30",
+    "participants": "Scrum Team",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Sprint Planning",
+    "time": "09:00",
+    "participants": "Scrum Team",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Client Technical Deep Dive",
+    "time": "11:15",
+    "participants": "Engineering, Client",
+    "duration": "1 hour 30 minutes"
+  },
+  {
+    "title": "Quarterly Financial Meeting",
+    "time": "15:00",
+    "participants": "Finance, Executives",
+    "duration": "2 hours"
+  },
+  {
+    "title": "Onboarding Session – New Interns",
+    "time": "10:00",
+    "participants": "HR, Interns",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Code Review Session",
+    "time": "14:00",
+    "participants": "Backend Team",
+    "duration": "45 minutes"
+  },
+  {
+    "title": "Bug Triage",
+    "time": "16:00",
+    "participants": "QA, Engineering",
+    "duration": "30 minutes"
+  },
+  {
+    "title": "Operational Risk Review",
+    "time": "12:30",
+    "participants": "Ops, Risk Team",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Infrastructure Health Check",
+    "time": "11:45",
+    "participants": "DevOps Team",
+    "duration": "30 minutes"
+  },
+  {
+    "title": "KPI Review and Analysis",
+    "time": "09:30",
+    "participants": "Analytics Team",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Hiring Panel Interview",
+    "time": "14:15",
+    "participants": "HR, Panel Members",
+    "duration": "1 hour"
+  },
+  {
+    "title": "System Architecture Review",
+    "time": "15:45",
+    "participants": "Engineering Leads",
+    "duration": "1 hour 15 minutes"
+  },
+  {
+    "title": "Client Training Session",
+    "time": "10:15",
+    "participants": "Client, Support Team",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Content Strategy Discussion",
+    "time": "13:45",
+    "participants": "Marketing, Communications",
+    "duration": "45 minutes"
+  },
+  {
+    "title": "Procurement Requirements Sync",
+    "time": "08:50",
+    "participants": "Procurement, Finance",
+    "duration": "30 minutes"
+  },
+  {
+    "title": "Team Lunch",
+    "time": "12:00",
+    "participants": "Team",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Cloud Cost Optimization Review",
+    "time": "16:30",
+    "participants": "Cloud Team",
+    "duration": "45 minutes"
+  },
+  {
+    "title": "Data Pipeline Troubleshooting",
+    "time": "11:20",
+    "participants": "Data Engineering",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Performance Review Prep",
+    "time": "10:40",
+    "participants": "Manager, Ikram",
+    "duration": "30 minutes"
+  },
+  {
+    "title": "API Integration Planning",
+    "time": "13:00",
+    "participants": "Backend, Frontend Teams",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Release Deployment Briefing",
+    "time": "09:15",
+    "participants": "QA, DevOps",
+    "duration": "30 minutes"
+  },
+  {
+    "title": "OKR Planning Workshop",
+    "time": "15:10",
+    "participants": "Leadership Team",
+    "duration": "2 hours"
+  },
+  {
+    "title": "User Testing Coordination",
+    "time": "14:25",
+    "participants": "UX, QA",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Client Escalation Call",
+    "time": "08:45",
+    "participants": "Support, Manager",
+    "duration": "45 minutes"
+  },
+  {
+    "title": "Sprint Demo",
+    "time": "11:00",
+    "participants": "Scrum Team, Stakeholders",
+    "duration": "1 hour"
+  },
+  {
+    "title": "System Monitoring Update",
+    "time": "10:50",
+    "participants": "Ops Team",
+    "duration": "30 minutes"
+  },
+  {
+    "title": "Contract Terms Clarification",
+    "time": "16:05",
+    "participants": "Legal, Product",
+    "duration": "40 minutes"
+  },
+  {
+    "title": "Budget Alignment Meeting",
+    "time": "12:45",
+    "participants": "Finance, Leadership",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Team Retrospective",
+    "time": "09:20",
+    "participants": "Team",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Product Brainstorm Session",
+    "time": "15:55",
+    "participants": "Product Team",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Load Testing Review",
+    "time": "13:15",
+    "participants": "QA, Engineering",
+    "duration": "30 minutes"
+  },
+  {
+    "title": "Risk Assessment Workshop",
+    "time": "10:05",
+    "participants": "Risk Team",
+    "duration": "1 hour 30 minutes"
+  },
+  {
+    "title": "Leadership Alignment Sync",
+    "time": "14:50",
+    "participants": "Executives",
+    "duration": "1 hour"
+  },
+  {
+    "title": "Client Onboarding Meeting",
+    "time": "11:10",
+    "participants": "Client, Support",
+    "duration": "1 hour"
+  }
+]
