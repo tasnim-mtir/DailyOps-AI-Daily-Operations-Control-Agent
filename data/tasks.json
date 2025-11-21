@@ -2,251 +2,253 @@
   {
     "description": "Prepare KPI dashboard for weekly executive meeting",
     "priority": "high",
-    "deadline": "Today 10:00"
+    "date": "2025-11-21",
+    "time": "10:00"
   },
   {
     "description": "Review client contract and provide technical comments",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Update project timeline in Jira",
     "priority": "medium",
-    "deadline": "Tomorrow"
+    "date": "2025-11-22"
   },
   {
     "description": "Analyze churn rate anomaly and validate data",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Prepare summary for monthly performance report",
     "priority": "medium",
-    "deadline": "Friday"
+    "date": "2025-11-28"
   },
   {
     "description": "Fix failing unit tests in analytics module",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Respond to client feedback on demo features",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Write documentation for API endpoints",
     "priority": "low",
-    "deadline": "Next Week"
+    "date": "2025-11-25"
   },
   {
     "description": "Check migration logs for errors",
     "priority": "medium",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Update UI screens with new branding colors",
     "priority": "low",
-    "deadline": "Next Monday"
+    "date": "2025-11-24"
   },
   {
     "description": "Prepare slides for internal tech presentation",
     "priority": "medium",
-    "deadline": "Tomorrow"
+    "date": "2025-11-22"
   },
   {
     "description": "Review and merge pending pull requests",
     "priority": "high",
-    "deadline": "Today 17:00"
+    "date": "2025-11-21",
+    "time": "17:00"
   },
   {
     "description": "Coordinate with HR to finalize internship onboarding",
     "priority": "low",
-    "deadline": "Next Week"
+    "date": "2025-11-25"
   },
   {
     "description": "Write incident report for API outage",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Schedule meeting with design team for UI feedback",
     "priority": "medium",
-    "deadline": "Tomorrow"
+    "date": "2025-11-22"
   },
   {
     "description": "Review Figma mockups for new homepage",
     "priority": "low",
-    "deadline": "This Week"
+    "date": "2025-11-23"
   },
   {
     "description": "Test performance of new ML model",
     "priority": "medium",
-    "deadline": "Tomorrow"
+    "date": "2025-11-22"
   },
   {
     "description": "Perform code freeze validation",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Send follow-up to client about API results",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Prepare financial estimates for procurement request",
     "priority": "medium",
-    "deadline": "Friday"
+    "date": "2025-11-28"
   },
   {
     "description": "Clean outdated data from analytics warehouse",
     "priority": "low",
-    "deadline": "Next Week"
+    "date": "2025-11-26"
   },
   {
     "description": "Fix UI bug in dashboard heatmap",
     "priority": "medium",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Check system logs for security alerts",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Run load tests on authentication service",
     "priority": "medium",
-    "deadline": "Tomorrow"
+    "date": "2025-11-22"
   },
   {
     "description": "Summarize user feedback from recent UX tests",
     "priority": "medium",
-    "deadline": "This Week"
+    "date": "2025-11-23"
   },
   {
     "description": "Prepare QA checklist for release 2.4",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Update company knowledge base with latest docs",
     "priority": "low",
-    "deadline": "Next Week"
+    "date": "2025-11-25"
   },
   {
     "description": "Add error handling to analytics API",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Draft email announcement for feature rollout",
     "priority": "medium",
-    "deadline": "Tomorrow"
+    "date": "2025-11-22"
   },
   {
     "description": "Finalize survey report for satisfaction study",
     "priority": "medium",
-    "deadline": "Friday"
+    "date": "2025-11-28"
   },
   {
     "description": "Verify integration tests for calendar sync",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Review server latency graphs",
     "priority": "medium",
-    "deadline": "Tomorrow"
+    "date": "2025-11-22"
   },
   {
     "description": "Prepare meeting minutes for strategy session",
     "priority": "low",
-    "deadline": "Next Monday"
+    "date": "2025-11-24"
   },
   {
     "description": "Update environment variables for staging deployment",
     "priority": "medium",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Re-run failing automation scripts",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Add validations to user registration form",
     "priority": "medium",
-    "deadline": "Tomorrow"
+    "date": "2025-11-22"
   },
   {
     "description": "Confirm budget allocation with finance",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Test email notifications on new CRM module",
     "priority": "low",
-    "deadline": "This Week"
+    "date": "2025-11-23"
   },
   {
     "description": "Review Slack messages for unresolved issues",
     "priority": "low",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Prepare updated documentation for onboarding",
     "priority": "medium",
-    "deadline": "Friday"
+    "date": "2025-11-28"
   },
   {
     "description": "Analyze error rate on backend APIs",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Plan tasks for next sprint",
     "priority": "medium",
-    "deadline": "Tomorrow"
+    "date": "2025-11-22"
   },
   {
     "description": "Organize files in cloud storage",
     "priority": "low",
-    "deadline": "Next Week"
+    "date": "2025-11-25"
   },
   {
     "description": "Review vendor invoice details",
     "priority": "medium",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Assist HR with new employee onboarding steps",
     "priority": "low",
-    "deadline": "Tomorrow"
+    "date": "2025-11-22"
   },
   {
     "description": "Prepare dataset for ML experiment",
     "priority": "medium",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Fix CORS issue on API gateway",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Write summary of weekly progress",
     "priority": "low",
-    "deadline": "Friday"
+    "date": "2025-11-28"
   },
   {
     "description": "Check logs for failed cron jobs",
     "priority": "medium",
-    "deadline": "Today"
+    "date": "2025-11-21"
   },
   {
     "description": "Verify authenticity of new vendor contract",
     "priority": "high",
-    "deadline": "Today"
+    "date": "2025-11-21"
   }
 ]

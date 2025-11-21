@@ -2,14 +2,16 @@
   {
     "sender": "Sarah Ben Salem – Operations Manager",
     "subject": "URGENT: Missing KPI Report for Morning Review",
-    "body": "Hi Ikram, the KPI dashboard is still missing. We need it before 10 AM for the executive review. Please send it ASAP.",
+    "body": "Hi Razi, the KPI dashboard is still missing. We need it before 10 AM for the executive review. Please send it ASAP.",
+    "date": "2025-11-21",
     "time": "08:12",
     "status": "unread"
   },
   {
     "sender": "Amir Ayadi – Client Success Lead",
     "subject": "Meeting Rescheduled to 11:30 AM",
-    "body": "Hello Ikram, our 9:30 meeting must be moved to 11:30 due to a conflict. Let me know if the new time works.",
+    "body": "Hello Razi, our 9:30 meeting must be moved to 11:30 due to a conflict. Let me know if the new time works.",
+    "date": "2025-11-21",
     "time": "07:50",
     "status": "unread"
   },
@@ -17,13 +19,15 @@
     "sender": "Finance Department",
     "subject": "Approval Needed: Budget Update Before End of Day",
     "body": "Please review the attached budget update and approve it before end of day. It's required for tomorrow’s board submission.",
+    "date": "2025-11-22",
     "time": "06:45",
     "status": "unread"
   },
   {
     "sender": "Rania Trabelsi – HR",
     "subject": "Team Satisfaction Survey Reminder",
-    "body": "Hi Ikram, this is a reminder to complete the team satisfaction survey. It takes less than 2 minutes.",
+    "body": "Hi Razi, this is a reminder to complete the team satisfaction survey. It takes less than 2 minutes.",
+    "date": "2025-11-22",
     "time": "09:05",
     "status": "read"
   },
@@ -31,6 +35,7 @@
     "sender": "Support Team",
     "subject": "Ticket #5543 Assigned to You",
     "body": "A new support ticket has been assigned regarding API access issues. Please investigate when available.",
+    "date": "2025-11-23",
     "time": "09:22",
     "status": "unread"
   },
@@ -38,6 +43,7 @@
     "sender": "Marketing Department",
     "subject": "Social Media Metrics Needed for Monthly Report",
     "body": "Hello, please send us the engagement metrics before noon. We are finalizing the monthly report.",
+    "date": "2025-11-23",
     "time": "08:40",
     "status": "unread"
   },
@@ -45,13 +51,15 @@
     "sender": "CEO Office",
     "subject": "Important: Leadership Strategy Briefing Document",
     "body": "Please read the attached briefing before Thursday’s leadership meeting. Let us know if you need clarification.",
+    "date": "2025-11-24",
     "time": "07:33",
     "status": "read"
   },
   {
     "sender": "Sales Team",
     "subject": "Client Feedback Summary Ready",
-    "body": "Ikram, the feedback from last week’s client demos is ready. Let’s discuss insights when you’re free.",
+    "body": "Razi, the feedback from last week’s client demos is ready. Let’s discuss insights when you’re free.",
+    "date": "2025-11-24",
     "time": "10:15",
     "status": "unread"
   },
@@ -59,6 +67,7 @@
     "sender": "IT Department",
     "subject": "Scheduled Maintenance Tonight at 11 PM",
     "body": "Systems will be down for 2 hours tonight for maintenance. Please save all progress.",
+    "date": "2025-11-25",
     "time": "06:00",
     "status": "read"
   },
@@ -66,13 +75,15 @@
     "sender": "Legal Team",
     "subject": "Contract Review Required Before Friday",
     "body": "Please review the attached contract and share your comments. This is needed before the weekly legal sync.",
+    "date": "2025-11-25",
     "time": "09:48",
     "status": "unread"
   },
   {
     "sender": "Quality Assurance",
     "subject": "Bug Report Summary for Sprint 14",
-    "body": "Hi Ikram, please analyze the reported issues and identify any blockers for tomorrow’s regression tests.",
+    "body": "Hi Razi, please analyze the reported issues and identify any blockers for tomorrow’s regression tests.",
+    "date": "2025-11-26",
     "time": "10:05",
     "status": "read"
   },
@@ -80,6 +91,7 @@
     "sender": "Customer Support",
     "subject": "High Priority: User Complaint Escalation",
     "body": "A user has escalated a complaint regarding failed login attempts. Please look into it immediately.",
+    "date": "2025-11-26",
     "time": "08:20",
     "status": "unread"
   },
@@ -87,6 +99,7 @@
     "sender": "Procurement Team",
     "subject": "Purchase Order #8821 Requires Your Approval",
     "body": "The purchase order for the new equipment requires your approval to proceed.",
+    "date": "2025-11-27",
     "time": "07:25",
     "status": "unread"
   },
@@ -94,6 +107,7 @@
     "sender": "HR Department",
     "subject": "Mandatory Compliance Training – Due Today",
     "body": "Please complete the mandatory security awareness training. Today is the final deadline.",
+    "date": "2025-11-27",
     "time": "06:50",
     "status": "unread"
   },
@@ -101,13 +115,15 @@
     "sender": "Customer Success",
     "subject": "Follow-Up Required: Client Waiting for Response",
     "body": "The client from yesterday’s meeting is waiting for an update. Can you follow up today?",
+    "date": "2025-11-28",
     "time": "09:18",
     "status": "unread"
   },
   {
     "sender": "Team Lead – Mohamed",
     "subject": "Quick Sync Needed Before Presentation",
-    "body": "Ikram, please meet me for a 5-minute sync before the product presentation.",
+    "body": "Razi, please meet me for a 5-minute sync before the product presentation.",
+    "date": "2025-11-28",
     "time": "10:40",
     "status": "read"
   },
@@ -115,6 +131,7 @@
     "sender": "Engineering",
     "subject": "Code Freeze Reminder for Release 2.4",
     "body": "Code freeze starts at 5 PM today. Ensure everything is pushed and validated.",
+    "date": "2025-11-29",
     "time": "08:55",
     "status": "unread"
   },
@@ -122,6 +139,7 @@
     "sender": "Design Team",
     "subject": "Updated UI Mockups Available",
     "body": "Hi, the updated UI screens have been uploaded to Figma. Please provide your feedback.",
+    "date": "2025-11-29",
     "time": "11:00",
     "status": "read"
   },
@@ -129,13 +147,15 @@
     "sender": "NOC Team",
     "subject": "Alert: High Latency in EU Servers",
     "body": "We detected unusual latency in the EU region. Investigation is ongoing.",
+    "date": "2025-11-30",
     "time": "07:18",
     "status": "unread"
   },
   {
     "sender": "Recruitment",
     "subject": "CV Screening Summary for Open Positions",
-    "body": "Hi Ikram, the initial CV screening summary is attached. Let us know your availability for interviews.",
+    "body": "Hi Razi, the initial CV screening summary is attached. Let us know your availability for interviews.",
+    "date": "2025-11-30",
     "time": "09:44",
     "status": "read"
   },
@@ -143,6 +163,7 @@
     "sender": "Analytics Team",
     "subject": "Daily Metrics Dashboard Updated",
     "body": "The metrics dashboard has been refreshed. Please verify new KPI anomalies.",
+    "date": "2025-12-01",
     "time": "08:03",
     "status": "unread"
   },
@@ -150,6 +171,7 @@
     "sender": "Security Team",
     "subject": "Password Expiration Notice",
     "body": "Your corporate password will expire in 3 days. Please update it promptly.",
+    "date": "2025-12-01",
     "time": "10:27",
     "status": "read"
   },
@@ -157,6 +179,7 @@
     "sender": "Finance",
     "subject": "Reimbursement Request Processed",
     "body": "Your reimbursement request has been processed. The amount will appear in your next payroll.",
+    "date": "2025-12-02",
     "time": "11:12",
     "status": "read"
   },
@@ -164,13 +187,15 @@
     "sender": "Internal Communications",
     "subject": "Monthly Newsletter – February Edition",
     "body": "Hello team, here is the February newsletter with updates across the company.",
+    "date": "2025-12-02",
     "time": "06:33",
     "status": "read"
   },
   {
     "sender": "Project Manager – Lina",
     "subject": "Please Review the Project Timeline Before Noon",
-    "body": "Ikram, can you review the updated timeline and confirm if dependencies are correct?",
+    "body": "Razi, can you review the updated timeline and confirm if dependencies are correct?",
+    "date": "2025-12-03",
     "time": "09:02",
     "status": "unread"
   },
@@ -178,13 +203,15 @@
     "sender": "CEO Office",
     "subject": "Company Strategy Document for FY2025",
     "body": "The strategy document for FY2025 is attached. Please review and prepare comments.",
+    "date": "2025-12-03",
     "time": "07:10",
     "status": "read"
   },
   {
     "sender": "Client – DigitalWave",
     "subject": "Data Upload Completed Successfully",
-    "body": "Hi Ikram, the new dataset has been uploaded. Please check quality and confirm next steps.",
+    "body": "Hi Razi, the new dataset has been uploaded. Please check quality and confirm next steps.",
+    "date": "2025-12-04",
     "time": "11:18",
     "status": "unread"
   },
@@ -192,6 +219,7 @@
     "sender": "Admin",
     "subject": "Office WiFi Issue Reported",
     "body": "Several employees reported WiFi disconnections. We are investigating.",
+    "date": "2025-12-04",
     "time": "10:06",
     "status": "read"
   },
@@ -199,6 +227,7 @@
     "sender": "Training Team",
     "subject": "Workshop Recording Available",
     "body": "The recording from yesterday’s workshop is available on the shared drive.",
+    "date": "2025-12-05",
     "time": "06:55",
     "status": "read"
   },
@@ -206,21 +235,23 @@
     "sender": "Sales",
     "subject": "Lead Pipeline Review Tomorrow",
     "body": "Quick reminder: tomorrow is pipeline review. Please prepare your notes.",
+    "date": "2025-12-05",
     "time": "09:31",
     "status": "unread"
   },
-
   {
     "sender": "Hichem Dabbebi – Product Owner",
     "subject": "Reminder: User Stories Need Final Review",
-    "body": "Morning Ikram, can you finalize the review of the remaining user stories before today's refinement session?",
+    "body": "Morning Razi, can you finalize the review of the remaining user stories before today's refinement session?",
+    "date": "2025-12-06",
     "time": "08:45",
     "status": "unread"
   },
   {
     "sender": "Meriem Chouchene – HR Assistant",
     "subject": "Employee Document Submission Reminder",
-    "body": "Hi Ikram, please remember to upload your updated ID documents in the HR portal.",
+    "body": "Hi Razi, please remember to upload your updated ID documents in the HR portal.",
+    "date": "2025-12-06",
     "time": "10:02",
     "status": "read"
   },
@@ -228,13 +259,15 @@
     "sender": "Analytics Team",
     "subject": "Spike in Customer Churn Rate Detected",
     "body": "We noticed an unusual spike in churn rate for this week. Can you check the dashboard and verify if the anomaly is dataset-related?",
+    "date": "2025-12-07",
     "time": "09:58",
     "status": "unread"
   },
   {
     "sender": "Marketing Lead – Imen",
     "subject": "Content Draft Ready for Review",
-    "body": "Hi Ikram, the blog post draft is ready. Please share your feedback when possible.",
+    "body": "Hi Razi, the blog post draft is ready. Please share your feedback when possible.",
+    "date": "2025-12-07",
     "time": "11:05",
     "status": "read"
   },
@@ -242,6 +275,7 @@
     "sender": "Security Department",
     "subject": "Two-Factor Authentication Incident Report",
     "body": "Hello, our logs indicate multiple failed 2FA attempts on your corporate account. This might be a false alarm, but please review.",
+    "date": "2025-12-08",
     "time": "06:42",
     "status": "unread"
   },
@@ -249,6 +283,7 @@
     "sender": "Training & Development",
     "subject": "Reminder: AI Ethics Training Session Tomorrow",
     "body": "This is a reminder that you are scheduled for the AI Ethics Workshop tomorrow at 9 AM.",
+    "date": "2025-12-08",
     "time": "16:13",
     "status": "read"
   },
@@ -256,20 +291,23 @@
     "sender": "Support Desk",
     "subject": "Incident #9914 Update – Monitoring Ongoing",
     "body": "The issue you reported regarding platform slowdown is still being monitored. No new updates from engineering yet.",
+    "date": "2025-12-09",
     "time": "14:22",
     "status": "read"
   },
   {
     "sender": "Project Coordinator – Yassine",
     "subject": "Task Follow-Up: Database Migration Notes",
-    "body": "Ikram, could you check the migration notes and confirm if step 3b was completed yesterday?",
+    "body": "Razi, could you check the migration notes and confirm if step 3b was completed yesterday?",
+    "date": "2025-12-09",
     "time": "13:34",
     "status": "unread"
   },
   {
     "sender": "Sales Director",
     "subject": "Client Contract Renewal Discussion",
-    "body": "Hi Ikram, we need your input on the technical section of the client's renewal proposal. Please review the latest draft.",
+    "body": "Hi Razi, we need your input on the technical section of the client's renewal proposal. Please review the latest draft.",
+    "date": "2025-12-10",
     "time": "15:10",
     "status": "read"
   },
@@ -277,13 +315,15 @@
     "sender": "Admin Office",
     "subject": "Parking Lot Maintenance – Access Restricted",
     "body": "The office parking will be closed tomorrow morning for line repainting. Please use the visitor lot.",
+    "date": "2025-12-10",
     "time": "07:20",
     "status": "read"
   },
   {
     "sender": "Medical Insurance Team",
     "subject": "Your Insurance Card Renewal",
-    "body": "Hi Ikram, your new insurance card is ready. Please collect it from the HR floor.",
+    "body": "Hi Razi, your new insurance card is ready. Please collect it from the HR floor.",
+    "date": "2025-12-11",
     "time": "10:56",
     "status": "unread"
   },
@@ -291,6 +331,7 @@
     "sender": "Engineering Manager – Walid",
     "subject": "Code Review Required Before Deployment",
     "body": "Please review the latest PR in the 'analytics-updates' branch before we deploy at 5 PM.",
+    "date": "2025-12-11",
     "time": "12:44",
     "status": "unread"
   },
@@ -298,13 +339,15 @@
     "sender": "IT Hardware Desk",
     "subject": "Laptop Battery Replacement Available",
     "body": "Your replacement battery has arrived. You can pick it up anytime today.",
+    "date": "2025-12-12",
     "time": "11:12",
     "status": "read"
   },
   {
     "sender": "Procurement Team",
     "subject": "Vendor Invoice Pending Confirmation",
-    "body": "Hello Ikram, please confirm receipt of the latest vendor invoice so the finance team can process payment.",
+    "body": "Hello Razi, please confirm receipt of the latest vendor invoice so the finance team can process payment.",
+    "date": "2025-12-12",
     "time": "09:11",
     "status": "unread"
   },
@@ -312,13 +355,15 @@
     "sender": "Legal Team – Nadia",
     "subject": "Confidentiality Agreement Update",
     "body": "Hi, we made small adjustments to the confidentiality clause. Please review and confirm your understanding.",
+    "date": "2025-12-13",
     "time": "08:50",
     "status": "read"
   },
   {
     "sender": "Team Lead – Ahmed",
     "subject": "Quick Check-In at 4 PM",
-    "body": "Ikram, are you available for a quick status update at 4 PM? Let me know if the time works.",
+    "body": "Razi, are you available for a quick status update at 4 PM? Let me know if the time works.",
+    "date": "2025-12-13",
     "time": "14:01",
     "status": "unread"
   },
@@ -326,6 +371,7 @@
     "sender": "UX Research Team",
     "subject": "User Feedback Analysis Document",
     "body": "The user interview summaries for this sprint are attached. Please take a look before our review session.",
+    "date": "2025-12-14",
     "time": "13:18",
     "status": "read"
   },
@@ -333,6 +379,7 @@
     "sender": "Payroll Team",
     "subject": "Payslip for February Ready",
     "body": "Your payslip for this month has been uploaded to the HR portal.",
+    "date": "2025-12-14",
     "time": "10:23",
     "status": "read"
   },
@@ -340,13 +387,15 @@
     "sender": "Corporate Communications",
     "subject": "Office Closure on Friday Afternoon",
     "body": "Due to maintenance on the electrical system, the office will close early on Friday.",
+    "date": "2025-12-15",
     "time": "11:55",
     "status": "read"
   },
   {
     "sender": "Client – SoftPlus Solutions",
     "subject": "API Results Not Matching Expected Output",
-    "body": "Hi Ikram, we ran the API tests again and still found discrepancies. Could you investigate the response logic?",
+    "body": "Hi Razi, we ran the API tests again and still found discrepancies. Could you investigate the response logic?",
+    "date": "2025-12-15",
     "time": "16:30",
     "status": "unread"
   }

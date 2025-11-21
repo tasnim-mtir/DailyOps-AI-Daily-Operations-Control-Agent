@@ -1,0 +1,33 @@
+openapi: 3.0.1
+info:
+  title: GetEmails API
+  version: 1.0.0
+
+paths:
+  /emails:
+    get:
+      summary: Get all emails
+      description: Fetches emails from GitHub JSON.
+      operationId: getEmails
+      responses:
+        "200":
+          description: A list of emails
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    sender:
+                      type: string
+                    subject:
+                      type: string
+                    body:
+                      type: string
+                    time:
+                      type: string
+                    status:
+                      type: string
+servers:
+  - url: https://raw.githubusercontent.com/tasnim-mtir/DailyOps-AI-Daily-Operations-Control-Agent/main/data

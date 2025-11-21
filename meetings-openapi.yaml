@@ -1,0 +1,31 @@
+openapi: 3.0.1
+info:
+  title: GetMeetings API
+  version: 1.0.0
+
+servers:
+  - url: https://raw.githubusercontent.com/tasnim-mtir/DailyOps-AI-Daily-Operations-Control-Agent/main/data
+
+paths:
+  /meetings.json:
+    get:
+      summary: Get all meetings
+      operationId: getMeetings
+      responses:
+        "200":
+          description: List of meetings
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    title:
+                      type: string
+                    time:
+                      type: string
+                    participants:
+                      type: string
+                    duration:
+                      type: string

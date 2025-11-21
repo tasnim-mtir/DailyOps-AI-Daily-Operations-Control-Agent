@@ -1,294 +1,343 @@
 [
   {
     "title": "Daily Standup",
+    "date": "2025-11-21",
     "time": "09:00",
-    "participants": "Ikram, Team",
+    "participants": "Razi, Team",
     "duration": "15 minutes"
   },
   {
     "title": "Weekly Planning Meeting",
+    "date": "2025-11-22",
     "time": "10:00",
     "participants": "Project Team",
     "duration": "45 minutes"
   },
   {
     "title": "Client Sync – DigitalWave",
+    "date": "2025-11-23",
     "time": "11:30",
-    "participants": "Ikram, Client Team",
+    "participants": "Razi, Client Team",
     "duration": "1 hour"
   },
   {
     "title": "UX Review Session",
+    "date": "2025-11-25",
     "time": "14:00",
     "participants": "Design Team, Product Owner",
     "duration": "1 hour"
   },
   {
     "title": "Data Quality Check",
+    "date": "2025-11-27",
     "time": "15:30",
     "participants": "Analytics Team",
     "duration": "30 minutes"
   },
   {
     "title": "Release Readiness Review",
+    "date": "2025-11-28",
     "time": "16:00",
     "participants": "Engineering, QA",
     "duration": "45 minutes"
   },
   {
     "title": "Project Kickoff – New Platform",
+    "date": "2025-11-29",
     "time": "13:00",
     "participants": "Full Team",
     "duration": "1 hour"
   },
   {
     "title": "One-on-One with Manager",
+    "date": "2025-12-01",
     "time": "12:00",
-    "participants": "Ikram, Sarah",
+    "participants": "Razi, Sarah",
     "duration": "30 minutes"
   },
   {
     "title": "AI Model Evaluation",
+    "date": "2025-12-02",
     "time": "15:00",
     "participants": "Data Science Team",
     "duration": "1 hour"
   },
   {
     "title": "Security Awareness Meeting",
+    "date": "2025-12-03",
     "time": "08:30",
     "participants": "Security Team",
     "duration": "1 hour"
   },
   {
     "title": "Client Demo Preparation",
+    "date": "2025-12-04",
     "time": "09:45",
     "participants": "Sales, Engineering",
     "duration": "1 hour"
   },
   {
     "title": "Database Migration Sync",
+    "date": "2025-12-05",
     "time": "11:00",
     "participants": "Backend Team",
     "duration": "30 minutes"
   },
   {
     "title": "Product Roadmap Alignment",
+    "date": "2025-12-06",
     "time": "10:30",
     "participants": "Product & Engineering Leads",
     "duration": "45 minutes"
   },
   {
     "title": "Marketing Campaign Review",
+    "date": "2025-12-08",
     "time": "14:30",
     "participants": "Marketing Team",
     "duration": "1 hour"
   },
   {
     "title": "Vendor Contract Discussion",
+    "date": "2025-12-09",
     "time": "16:15",
     "participants": "Legal, Procurement",
     "duration": "45 minutes"
   },
   {
     "title": "Sprint Retrospective",
+    "date": "2025-12-10",
     "time": "13:30",
     "participants": "Scrum Team",
     "duration": "1 hour"
   },
   {
     "title": "Sprint Planning",
+    "date": "2025-12-12",
     "time": "09:00",
     "participants": "Scrum Team",
     "duration": "1 hour"
   },
   {
     "title": "Client Technical Deep Dive",
+    "date": "2025-12-13",
     "time": "11:15",
     "participants": "Engineering, Client",
     "duration": "1 hour 30 minutes"
   },
   {
     "title": "Quarterly Financial Meeting",
+    "date": "2025-12-15",
     "time": "15:00",
     "participants": "Finance, Executives",
     "duration": "2 hours"
   },
   {
     "title": "Onboarding Session – New Interns",
+    "date": "2025-12-16",
     "time": "10:00",
     "participants": "HR, Interns",
     "duration": "1 hour"
   },
   {
     "title": "Code Review Session",
+    "date": "2025-12-17",
     "time": "14:00",
     "participants": "Backend Team",
     "duration": "45 minutes"
   },
   {
     "title": "Bug Triage",
+    "date": "2025-12-18",
     "time": "16:00",
     "participants": "QA, Engineering",
     "duration": "30 minutes"
   },
   {
     "title": "Operational Risk Review",
+    "date": "2025-12-20",
     "time": "12:30",
     "participants": "Ops, Risk Team",
     "duration": "1 hour"
   },
   {
     "title": "Infrastructure Health Check",
+    "date": "2025-12-22",
     "time": "11:45",
     "participants": "DevOps Team",
     "duration": "30 minutes"
   },
   {
     "title": "KPI Review and Analysis",
+    "date": "2025-12-23",
     "time": "09:30",
     "participants": "Analytics Team",
     "duration": "1 hour"
   },
   {
     "title": "Hiring Panel Interview",
+    "date": "2025-12-24",
     "time": "14:15",
     "participants": "HR, Panel Members",
     "duration": "1 hour"
   },
   {
     "title": "System Architecture Review",
+    "date": "2025-12-26",
     "time": "15:45",
     "participants": "Engineering Leads",
     "duration": "1 hour 15 minutes"
   },
   {
     "title": "Client Training Session",
+    "date": "2025-12-27",
     "time": "10:15",
     "participants": "Client, Support Team",
     "duration": "1 hour"
   },
   {
     "title": "Content Strategy Discussion",
+    "date": "2025-12-28",
     "time": "13:45",
     "participants": "Marketing, Communications",
     "duration": "45 minutes"
   },
   {
     "title": "Procurement Requirements Sync",
+    "date": "2025-12-30",
     "time": "08:50",
     "participants": "Procurement, Finance",
     "duration": "30 minutes"
   },
   {
     "title": "Team Lunch",
+    "date": "2026-01-02",
     "time": "12:00",
     "participants": "Team",
     "duration": "1 hour"
   },
   {
     "title": "Cloud Cost Optimization Review",
+    "date": "2026-01-03",
     "time": "16:30",
     "participants": "Cloud Team",
     "duration": "45 minutes"
   },
   {
     "title": "Data Pipeline Troubleshooting",
+    "date": "2026-01-04",
     "time": "11:20",
     "participants": "Data Engineering",
     "duration": "1 hour"
   },
   {
     "title": "Performance Review Prep",
+    "date": "2026-01-05",
     "time": "10:40",
-    "participants": "Manager, Ikram",
+    "participants": "Manager, Razi",
     "duration": "30 minutes"
   },
   {
     "title": "API Integration Planning",
+    "date": "2026-01-06",
     "time": "13:00",
     "participants": "Backend, Frontend Teams",
     "duration": "1 hour"
   },
   {
     "title": "Release Deployment Briefing",
+    "date": "2026-01-07",
     "time": "09:15",
     "participants": "QA, DevOps",
     "duration": "30 minutes"
   },
   {
     "title": "OKR Planning Workshop",
+    "date": "2026-01-08",
     "time": "15:10",
     "participants": "Leadership Team",
     "duration": "2 hours"
   },
   {
     "title": "User Testing Coordination",
+    "date": "2026-01-09",
     "time": "14:25",
     "participants": "UX, QA",
     "duration": "1 hour"
   },
   {
     "title": "Client Escalation Call",
+    "date": "2026-01-10",
     "time": "08:45",
     "participants": "Support, Manager",
     "duration": "45 minutes"
   },
   {
     "title": "Sprint Demo",
+    "date": "2026-01-11",
     "time": "11:00",
     "participants": "Scrum Team, Stakeholders",
     "duration": "1 hour"
   },
   {
     "title": "System Monitoring Update",
+    "date": "2026-01-12",
     "time": "10:50",
     "participants": "Ops Team",
     "duration": "30 minutes"
   },
   {
     "title": "Contract Terms Clarification",
+    "date": "2026-01-13",
     "time": "16:05",
     "participants": "Legal, Product",
     "duration": "40 minutes"
   },
   {
     "title": "Budget Alignment Meeting",
+    "date": "2026-01-14",
     "time": "12:45",
     "participants": "Finance, Leadership",
     "duration": "1 hour"
   },
   {
     "title": "Team Retrospective",
+    "date": "2026-01-15",
     "time": "09:20",
     "participants": "Team",
     "duration": "1 hour"
   },
   {
     "title": "Product Brainstorm Session",
+    "date": "2026-01-16",
     "time": "15:55",
     "participants": "Product Team",
     "duration": "1 hour"
   },
   {
     "title": "Load Testing Review",
+    "date": "2026-01-17",
     "time": "13:15",
     "participants": "QA, Engineering",
     "duration": "30 minutes"
   },
   {
     "title": "Risk Assessment Workshop",
+    "date": "2026-01-18",
     "time": "10:05",
     "participants": "Risk Team",
     "duration": "1 hour 30 minutes"
   },
   {
     "title": "Leadership Alignment Sync",
+    "date": "2026-01-19",
     "time": "14:50",
     "participants": "Executives",
     "duration": "1 hour"
   },
   {
     "title": "Client Onboarding Meeting",
+    "date": "2026-01-20",
     "time": "11:10",
     "participants": "Client, Support",
     "duration": "1 hour"
